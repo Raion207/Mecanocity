@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 07 01:43:44 CET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0184-4f8b-0dd1-0000028d18a0 
+on database directory memory:C:\Users\marca\OneDrive\Documents\Mecanocity\d357e85d-a62c-4d3e-b866-62a0c4f8656e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@531d72ca 
+Loaded from file:/C:/Users/marca/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.1+12
+user.dir=C:\Users\marca\OneDrive\Documents\Mecanocity
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
